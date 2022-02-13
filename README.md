@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fede4954" alt="fede4954" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack web development at Ironhack**
+- 🌱 I’m currently learning **Redux and Next.JS**
 
 - 👯 I’m looking to collaborate on Projects, Open Source, Tech Articles
 
@@ -13,9 +13,11 @@
 
 - 📫 You can contact me on this email **f.gomezlara@outlook.es**
 
+- 👨‍💻 And you can check out my resume <a href="https://rxresu.me/r/tsukz4" target="_blank">here!</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/federico-gómez-lara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-gómez-lara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/federico-gómez-lara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-gómez-lara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
