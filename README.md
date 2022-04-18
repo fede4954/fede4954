@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fede4954" alt="fede4954" /></a> </p>
 
-- 🌱 I’m currently learning **Redux and Next.JS**
+- 🌱 I’m currently working for **Estudio Cactus**
 
-- 👯 I’m looking to collaborate on Projects, Open Source, Tech Articles
+- 📫 You can contact me through this email **f.gomezlara@outlook.es**
 
-- 💬 Talk to me about JavaScript, Design Frameworks and Libraries, Open Source
-
-- 📫 You can contact me on this email **f.gomezlara@outlook.es**
-
-- 👨‍💻 And you can check out my resume <a href="https://rxresu.me/r/tsukz4" target="_blank">here!</a>
+- 👨‍💻 And you can check out my resume here <a href="https://rxresu.me/r/tsukz4" target="_blank">here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
